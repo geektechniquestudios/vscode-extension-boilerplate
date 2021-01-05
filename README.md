@@ -1,2 +1,2 @@
 # vscode-extension-boilerplate
-The "yo code" command for building vscode extension boilerplate doesn't work out of the box currently, so this is a reference point for making a new vscode extension at the "hello world" stage.
+The "yo code" command for building vscode extension boilerplate doesn't work out of the box currently due to some weird webpack config that's made, so this is a reference point for making a new vscode extension. I found it frustrating to fix every time, so I made this. 
